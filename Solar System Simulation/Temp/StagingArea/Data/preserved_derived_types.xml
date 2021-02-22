@@ -1,0 +1,10 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="ChangeLookAtTarget" preserve="all"/>
+<type fullname="LookAtTarget" preserve="all"/>
+<type fullname="RotateAround" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Analytics">
+<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
+</assembly>
+</linker>
